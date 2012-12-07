@@ -16,7 +16,9 @@ public class h01
 		venster.setLocation(100, 100);
 		venster.setSize(300, 300);
 		venster.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		
+		JPanel hoofdpaneel = new JPanel();
+		venster.add(hoofdpaneel);
+		venster.setVisible(true);
 		
 	}
 	
