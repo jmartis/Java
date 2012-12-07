@@ -20,6 +20,7 @@ public class h01
 		venster.add(hoofdpaneel);
 		venster.setVisible(true);
 		
+		
 	}
 	
 	public static void main (String [] args)
